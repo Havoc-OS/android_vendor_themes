@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Havoc Themes  -->
+    <color name="theme_background_shady">#fda900</color>
+    <color name="theme_background_glassy">#aefda900</color>
+    <color name="theme_notification_background_shady">#fffda900</color>
+
+</resources>

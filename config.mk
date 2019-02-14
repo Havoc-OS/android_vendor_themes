@@ -6,6 +6,57 @@ PRODUCT_PACKAGES += \
     SystemUIDark \
     WellbeingDark
 
+# Shady themes
+PRODUCT_PACKAGES += \
+    SettingsShady \
+    SettingsIntelligenceShady \
+    SystemShady \
+    SystemUIShady \
+    WellbeingShady
+
+# Glassy themes
+PRODUCT_PACKAGES += \
+    SettingsGlassy \
+    SettingsIntelligenceGlassy \
+    SystemGlassy \
+    SystemUIGlassy \
+    WellbeingGlassy
+
+# Themes
+PRODUCT_PACKAGES += \
+    ThemeGrey \
+    ThemeArsenic \
+    ThemeSlateGrey \
+    ThemeBistre \
+    ThemeRusset \
+    ThemeScarlet \
+    ThemeUbuntuOrange \
+    ThemeSelectiveYellow \
+    ThemeAquamarine \
+    ThemeDarkTurquoise \
+    ThemePineGreen \
+    ThemeAzure \
+    ThemeDenim \
+    ThemeUNBlue \
+    ThemeRoyalBlue \
+    ThemeDarkViolet \
+    ThemeCobalt \
+    ThemePersianBlue \
+    ThemeUltramarine \
+    ThemeAmethyst \
+    ThemeFuchsia \
+    ThemeViolet \
+    ThemeIndigo \
+    ThemeAmaranth \
+    ThemeMauve \
+    ThemeCerise \
+    ThemeAmericanRose \
+    ThemeFireBrick \
+    ThemeVermilion \
+    ThemeBlack \
+    ThemeAlmostBlack \
+    ThemeDarkAF
+
 # Accents
 PRODUCT_PACKAGES += \
     AccentAmber \
