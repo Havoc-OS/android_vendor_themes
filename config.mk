@@ -1,5 +1,6 @@
 # Dark themes
 PRODUCT_PACKAGES += \
+    GBoardDark \
     SettingsDark \
     SettingsIntelligenceDark \
     SystemDark \
@@ -8,6 +9,7 @@ PRODUCT_PACKAGES += \
 
 # Shady themes
 PRODUCT_PACKAGES += \
+    GBoardShady \
     SettingsShady \
     SettingsIntelligenceShady \
     SystemShady \
@@ -16,6 +18,7 @@ PRODUCT_PACKAGES += \
 
 # Glassy themes
 PRODUCT_PACKAGES += \
+    GBoardGlassy \
     SettingsGlassy \
     SettingsIntelligenceGlassy \
     SystemGlassy \
