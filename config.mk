@@ -55,7 +55,8 @@ PRODUCT_PACKAGES += \
     ThemeVermilion \
     ThemeBlack \
     ThemeAlmostBlack \
-    ThemeDarkAF
+    ThemeDarkAF \
+    ThemeBlackPearl
 
 # Accents
 PRODUCT_PACKAGES += \
