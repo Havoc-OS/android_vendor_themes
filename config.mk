@@ -94,6 +94,7 @@ PRODUCT_PACKAGES += \
     AccentUserSix \
     AccentUserSeven \
     AccentUserEight \
+    AccentUserNine \
     AccentObfusBleu \
     AccentNotImpPurple \
     AccentHolillusion \
