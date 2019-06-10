@@ -127,20 +127,25 @@ PRODUCT_PACKAGES += \
     QSTileCircleDualTone \
     QSTileCircleGradient \
     QSTileCookie \
+    QSTileCosmos \
+    QSTileDividedCircle \
     QSTileDottedCircle \
     QSTileDualToneCircle \
     QSTileInk \
     QSTileInkdrop \
     QSTileMountain \
+    QSTileNeonLight \
     QSTileNinja \
     QSTileOreo \
     QSTileOreoCircleTrim \
     QSTileOreoSquircleTrim \
+    QSTileOxygen \
     QSTilePokesign \
     QSTileSquaremedo \
     QSTileSquircle \
     QSTileSquircleTrim \
     QSTileTeardrop \
+    QSTileTriangles \
     QSTileWavey
 
 # QS header styles
